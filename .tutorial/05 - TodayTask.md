@@ -1,29 +1,25 @@
 # Here is your challenge for Day 10
 
-## Project 10: 
-
-Let's get started with your first project! After only one day, you already have something you can share with the world.
+## Project 10: Simple Calculator that can add two numbers
 
 *You can continue to use this same repl for your project. Just make sure you delete any previous code from our practice session.*
 
-1. Write your `full name` and `today's date` in separate lines of code.
+1. Import the require packages that we learn today
 
 <details><summary> 💡Hint </summary> 
-
-Don't forget `""` and `()` when creating your print statements.
+Tip use: import javax.swing.*;
+alot easier
 </details>
 
-2. Copy this text below. See if you can do it with just the one `print` statement!
-```
-I am signing up for Java Summer Learning!
-I will make sure to spend some time every day coding along, for a minimum of "15" minutes a day.
-```
+2. Add all necessary like main window, two num textfields for input, , JButton for adding, and a label for result. 
+
+3. Add action listener to the button and method that does the math
+
 <details> <summary>💡 Hint </summary>
 
-Remeber to check your index that can also be a problem
+Remeber to Integer.parseInt(num1.getText()); to show it
 
 </details>
 
-3. On the next line add an emoji of your choice to illustrate how you're feeling about the challenge.
 
 4. `Run` your program.
